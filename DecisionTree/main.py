@@ -37,10 +37,10 @@ def main():
 
 
 def _print_options() -> None:
-    csvs = {1: 'csv_files/iris.csv',
-            2: 'csv_files/restaurant.csv',
-            3: 'csv_files/weather.csv',
-            4: 'csv_files/connect4.csv'}
+    csvs = {1: IRIS_CSV,
+            2: RESTAURANT_CSV,
+            3: WEATHER_CSV,
+            4: CONNECT4_CSV}
     
     print("Choose the dataset to train the Decision Tree:"
             "\n1 - Iris.csv\n"
