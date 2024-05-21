@@ -7,7 +7,7 @@ Nesse projeto, implementamos o algortimo ID3 para uma árvore de decisão
 ## Componentes:
 - *DecisionTree*: pasta com todos os arquivos python de implementação
 - *Connect4*: pasta com o jogo connect4 com a árvore como algortimo de decisão
-- Jupyter*: pasta com os arquivos de jupyter notebook (relatório)
+- *Jupyter*: pasta com os arquivos de jupyter notebook (relatório)
 - *DecisionTree-Video.mp4*: vídeo de apresentação do projeto
 - *links.txt*: link para o vídeo no Youtube e para repositórios no GitHub
 
