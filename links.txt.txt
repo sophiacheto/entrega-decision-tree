@@ -1,0 +1,8 @@
+REPOSITÓRIO DE ENTREGA DO PROJETO:
+https://github.com/sophiacheto/entrega-connect4
+
+REPOSITÓRIO PÚBLICO DA IMPLEMENTAÇÃO COMPLETA:
+https://github.com/RobertGleison/decision-tree-ia
+
+VIDEO NO YOUTUBE:
+https://youtu.be/Ol6AqS5SdPc
